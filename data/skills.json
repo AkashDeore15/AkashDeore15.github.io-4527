@@ -1,0 +1,73 @@
+{
+  "sectionTitle": "Capabilities",
+  "subtitle": "A focused toolkit built through hands-on, real-world work.",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Python",
+        "Java",
+        "PowerShell",
+        "Bash",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "color": "#4ECDC4",
+      "skills": [
+        "FastAPI"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#FFE66D",
+      "skills": [
+        "AWS",
+        "EC2",
+        "S3",
+        "SQS",
+        "IAM",
+        "CloudFormation",
+        "Microsoft Azure",
+        "Entra ID",
+        "Azure AD",
+        "Google Cloud Platform",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "Azure DevOps",
+        "Splunk",
+        "ELK Stack",
+        "Datadog",
+        "SIEM Integration",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#A8DADC",
+      "skills": [
+        "Cloud Platforms",
+        "Security and IAM",
+        "Infrastructure as Code and DevOps",
+        "Monitoring and Observability",
+        "Microservices Architecture",
+        "REST APIs",
+        "Agile/Scrum",
+        "Root Cause Analysis",
+        "Configuration Management",
+        "TCP/IP",
+        "DNS",
+        "VPN"
+      ]
+    }
+  ]
+}

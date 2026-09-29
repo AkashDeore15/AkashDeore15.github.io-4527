@@ -1,0 +1,43 @@
+{
+  "sectionTitle": "Education",
+  "subtitle": "Academic foundation supporting my professional work.",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "school": "New Jersey Institute of Technology",
+      "institution": "New Jersey Institute of Technology",
+      "period": "Expected May 2026",
+      "details": "",
+      "description": "",
+      "icon": "fas fa-graduation-cap",
+      "color": "#2FC4B2"
+    },
+    {
+      "degree": "Bachelor of Engineering in Information Technology",
+      "school": "Savitribai Phule Pune University",
+      "institution": "Savitribai Phule Pune University",
+      "period": "May 2021",
+      "details": "",
+      "description": "",
+      "icon": "fas fa-university",
+      "color": "#F2C14E"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC 900)",
+      "issuer": "Microsoft",
+      "date": "",
+      "icon": "fas fa-certificate",
+      "color": "#FF6B6B"
+    },
+    {
+      "title": "AWS Certified: Cloud Practitioner and Solutions Architect Associate (In Progress)",
+      "issuer": "AWS",
+      "date": "",
+      "icon": "fas fa-certificate",
+      "color": "#4ECDC4"
+    }
+  ]
+}

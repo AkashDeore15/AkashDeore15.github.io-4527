@@ -1,0 +1,64 @@
+{
+  "greeting": "Portfolio",
+  "name": "Akash Deore",
+  "title": "Cloud Security & Platform Engineer",
+  "summary": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools.",
+  "avatarUrl": "",
+  "tagline": "Python / Java / PowerShell / Bash / JavaScript",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "text": "5+ Years Experience",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "text": "2 Projects Delivered",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "Python, Java, PowerShell",
+      "color": "#FFE66D"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Contact Me",
+        "href": "#contact",
+        "type": "primary",
+        "external": false,
+        "icon": "fas fa-envelope"
+      },
+      {
+        "text": "Explore Projects",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false,
+        "icon": "fas fa-chart-line"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Akashdeore15",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akash-deore",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:akashdeore1999@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to explore",
+    "icon": "fas fa-chevron-down"
+  }
+}

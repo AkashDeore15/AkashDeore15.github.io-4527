@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Akash Deore",
+    "title": "Cloud Security & Platform Engineer",
+    "bio": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools."
+  },
+  "contact": {
+    "email": "akashdeore1999@gmail.com",
+    "phone": "+1 (201) 428-8486",
+    "githubUsername": "AkashDeore15",
+    "linkedin": "https://www.linkedin.com/in/akash-deore"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Akash Deore - Portfolio",
+    "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud architectures aligned with NIST frameworks and CIS Benchmarks, implementing RBAC/ABAC access controls, and automating compliance workflows using Infrastructure as Code (IaC). PowerShell, and Java with hands on experience across AWS and Azure cloud platforms, containerized deployments, and enterprise observability tools."
+  }
+}

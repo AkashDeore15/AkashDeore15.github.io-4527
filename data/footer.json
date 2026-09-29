@@ -1,0 +1,43 @@
+{
+  "copyright": {
+    "text": "© 2026 Akash Deore. All rights reserved.",
+    "year": "2026",
+    "name": "Akash Deore"
+  },
+  "tagline": "Cloud Security & Platform Engineer",
+  "links": [
+    {
+      "text": "Email",
+      "href": "mailto:akashdeore1999@gmail.com"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/Akashdeore15"
+    },
+    {
+      "text": "LinkedIn",
+      "href": "https://www.linkedin.com/in/akash-deore"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Akashdeore15",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akash-deore",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:akashdeore1999@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "backToTop": {
+    "text": "Back to Top",
+    "icon": "fas fa-chevron-up"
+  }
+}

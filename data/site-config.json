@@ -1,0 +1,25 @@
+{
+  "title": "Akash Deore | Cloud Security & Platform Engineer",
+  "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud a...",
+  "keywords": "Akash Deore, Cloud Security & Platform Engineer, Portfolio, Python, Java, PowerShell, Bash, JavaScript, TypeScript, FastAPI, AWS",
+  "author": "Akash Deore",
+  "siteName": "Akash Deore",
+  "siteTitle": "Akash Deore | Cloud Security & Platform Engineer",
+  "meta": {
+    "title": "Akash Deore | Cloud Security & Platform Engineer",
+    "description": "Cloud Security Engineer with 3+ years of experience in enterprise security delivery, identity and access management (IAM), and cloud infrastructure automation. Expertise in designing secure cloud a...",
+    "author": "Akash Deore",
+    "keywords": "Akash Deore, Cloud Security & Platform Engineer, Portfolio, Python, Java, PowerShell, Bash, JavaScript, TypeScript, FastAPI, AWS"
+  },
+  "branding": {
+    "name": "Akash Deore",
+    "tagline": "Cloud Security & Platform Engineer",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}
