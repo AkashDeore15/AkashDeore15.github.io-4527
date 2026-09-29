@@ -339,12 +339,19 @@ async function loadProjects() {
         if (projectsGrid && data.projects) {
             projectsGrid.innerHTML = data.projects.map((project, index) => `
                 <div class="project-card" style="--project-color: ${project.color}">
-                    <div class="project-visual">
-                        <div class="project-icon" style="background: ${project.color}">
-                            <i class="${project.icon}"></i>
+                    ${project.image ? `
+                        <div class="project-visual project-cover">
+                            <img src="${project.image}" alt="${project.title}" loading="lazy">
+                            <span class="project-number">${String(index + 1).padStart(2, '0')}</span>
                         </div>
-                        <span class="project-number">${String(index + 1).padStart(2, '0')}</span>
-                    </div>
+                    ` : `
+                        <div class="project-visual">
+                            <div class="project-icon" style="background: ${project.color}">
+                                <i class="${project.icon}"></i>
+                            </div>
+                            <span class="project-number">${String(index + 1).padStart(2, '0')}</span>
+                        </div>
+                    `}
                     <div class="project-header">
                         ${project.category ? `<span class="project-category">${project.category}</span>` : ''}
                         <h3 class="project-title">${project.title}</h3>
